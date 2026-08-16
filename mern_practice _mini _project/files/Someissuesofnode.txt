@@ -1,1 +1,0 @@
-something about the latest issues we faced in node.js development
